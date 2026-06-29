@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0025/krp/v1/juan/9
+seq: 9
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0025_WYG_009-1a, image: WYG0491/WYG0491-0507c.png}
+body:
+  text: 延祐四明志卷九元袁桷撰闕
+  hash: sha256:779f33012bbe97167973613bf86bcb1975ed80a44c832edd6c6bcfe9d5fca43c
+metadata:
+  title: 延祐四明志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:39:45.336592'
+  juan_title: 卷九
+  source:
+    repository: kanripo
+    path: KR2k0025/KR2k0025_009.txt
+hash: sha256:0d5d9b367b4b219bc1258a1fc71a2b001bd9d45b56e7a3f3f932cc9116ba1ac9
